@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-A Sr Software Engineer with +5 years in web development.
+A Sr Software Engineer with +6 years in web development.
 Currently working in [Mercado Libre](https://github.com/mercadolibre).
 
 ## ⚡ Technologies
